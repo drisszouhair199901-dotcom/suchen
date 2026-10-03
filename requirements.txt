@@ -1,0 +1,5 @@
+# suchstreamlit
+requests
+beautifulsoup4
+pandas
+en
